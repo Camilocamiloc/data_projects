@@ -1,8 +1,8 @@
-👍👎 Analizador de Sentimientos con Transformers y Streamlit
+## 👍👎 Analizador de Sentimientos con Transformers y Streamlit
 
 Aplicación para analizar sentimiento (1–5 estrellas) usando el modelo nlptown/bert-base-multilingual-uncased-sentiment de Hugging Face. Incluye interfaz web sencilla con Streamlit y módulo para procesar archivos CSV (análisis de sentimientos de comentarios múltiples).
 
-🚀 Funcionalidades
+#### 🚀 Funcionalidades
 
 Análisis de sentimiento basado en estrellas.
 
@@ -12,7 +12,7 @@ Visualización con estrellas (streamlit-star-rating).
 
 Procesamiento masivo de comentarios en CSV.
 
-📦 Instalación
+#### 📦 Instalación
 pip install -r requirements.txt
 
 Dependencias principales:
@@ -23,7 +23,7 @@ torch
 pandas
 streamlit-star-rating
 
-▶️ Uso
+#### ▶️ Uso
 Aplicación web
 streamlit run app.py
 
@@ -47,7 +47,7 @@ sentimiento (1–5 estrellas)
 
 confianza
 
-📁 Estructura
+#### 📁 Estructura
 app.py
 src/
  ├─ inference.py
