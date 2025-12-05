@@ -1,0 +1,5 @@
+streamlit
+transformers
+torch
+pandas
+streamlit-star-rating
