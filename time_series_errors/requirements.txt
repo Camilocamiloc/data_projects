@@ -1,0 +1,10 @@
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+dash
+prophet
+statsmodels
+python-dateutil
+pytz
