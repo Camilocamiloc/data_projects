@@ -8,6 +8,8 @@ Análisis de sentimiento basado en estrellas.
 
 Interfaz web con Streamlit.
 
+Webscrapping de los comentarios de la aplicación en google play.
+
 Visualización con estrellas (streamlit-star-rating).
 
 Procesamiento masivo de comentarios en CSV.
