@@ -4,4 +4,3 @@ torch
 pandas
 st-star-rating
 google_play_scraper
-json
