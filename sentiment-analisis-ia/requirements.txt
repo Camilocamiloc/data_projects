@@ -3,3 +3,5 @@ transformers
 torch
 pandas
 streamlit-star-rating
+google_play_scraper
+json
